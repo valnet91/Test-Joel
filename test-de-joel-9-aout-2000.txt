@@ -6,7 +6,7 @@
 
 - Reposant sur des principes de base pour améliorer divers principes pour optimiser le développemnt informatique.
 
-- Regarder quel point est à améliorer et mettre en place des actions.
+- Regarder quel point est à améliorer et à mettre en place des actions.
 
 # Conclusion
 - Ce test n'a qu'une valeur indicative, il donne une information concernant les axes et points d'améliorations possible
